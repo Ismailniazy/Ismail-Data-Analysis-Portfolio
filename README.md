@@ -7,3 +7,4 @@
 * Finding Average Rating of Movies Year Wise.
 * Showing The Relation Between Movies Ratings & Revenue.
 
+![IMBD image 1](https://github.com/Ismailniazy/Ismail-Data-Analysis-Portfolio/assets/143493393/128f62db-c266-44f2-b96a-ee180d2c6c1f)
